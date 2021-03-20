@@ -5,7 +5,7 @@ meta:
   xref:
     wikidata: Q61774549
   license: CC0-1.0
-  ks-version: 0.7
+  ks-version: 0.9
   endian: le
   bit-endian: le
 doc: |
